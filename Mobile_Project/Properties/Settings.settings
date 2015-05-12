@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mobile_Project.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileUrlBefore" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://202.114.66.77:3000/FileUrlBefore/</Value>
+    </Setting>
+    <Setting Name="MqttUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">202.114.66.77</Value>
+    </Setting>
+    <Setting Name="FileUrlAfter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://202.114.66.77:3000/FileUrlAfter/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
